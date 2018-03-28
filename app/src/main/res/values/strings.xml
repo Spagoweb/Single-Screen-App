@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="spago_title">SpagoWeb</string>
+    <string name="phone_number">+39 333 558 8774</string>
+    <string name="email">roberto@spagoweb.com</string>
+    <string name="website">www.spagoweb.com</string>
+    <string name="description">My name is Roberto Piva and I am a web designer and developer: I realize web sites and web applications.
+    I love to experiment with innovative solutions, to be able to achieve ever-changing and impacting projects, trying to optimize tedious and repetitive tasks with automatic and intelligent procedures.</string>
+</resources>
